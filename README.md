@@ -1,3 +1,3 @@
-# consumerbio
-A curated lists of biotech start-ups that may disrupt market of consumer daily chemical products.
+# consumer biotech
+A curated lists of start-ups that is developing transformative biology-first product
 
